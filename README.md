@@ -1,3 +1,8 @@
+link for demo video for the project : https://www.linkedin.com/posts/ahmed-hosny-a016841b5_intership-thesparksfoundation-gripsept22-activity-6978131999110660096-WEX_?utm_source=share&utm_medium=member_desktop
+
+link to try the project : https://lnkd.in/eWVfJTtD
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
